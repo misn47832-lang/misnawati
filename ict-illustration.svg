@@ -1,0 +1,26 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="40" fill="#FDE8EF"/>
+  <circle cx="150" cy="140" r="70" fill="#F9C8D9"/>
+  <rect x="520" y="100" width="220" height="150" rx="24" fill="#FFE7F2" stroke="#F1A7C1" stroke-width="6"/>
+  <path d="M130 100C170 60 240 60 280 100" stroke="#F1A7C1" stroke-width="12" stroke-linecap="round"/>
+  <path d="M150 130C170 150 210 150 230 130" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M205 140L215 150" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <rect x="420" y="320" width="280" height="180" rx="28" fill="#FFE7F2" stroke="#F1A7C1" stroke-width="6"/>
+  <rect x="470" y="150" width="140" height="90" rx="16" fill="#F9C8D9"/>
+  <path d="M545 180L530 205" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M580 210L560 235" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M630 190L615 220" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M470 360H690" stroke="#F1A7C1" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="540" cy="400" r="14" fill="#F1A7C1"/>
+  <circle cx="620" cy="400" r="14" fill="#F1A7C1"/>
+  <circle cx="700" cy="400" r="14" fill="#F1A7C1"/>
+  <rect x="160" y="320" width="260" height="150" rx="24" fill="#FBD7E5"/>
+  <path d="M190 360H390" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M220 390H360" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M220 420H340" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <rect x="330" y="210" width="120" height="90" rx="20" fill="#F9C8D9"/>
+  <path d="M350 244H420" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M350 274H420" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M400 310H420" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <text x="520" y="62" fill="#B8467A" font-size="34" font-weight="700">Ilustrasi ICT</text>
+</svg>
